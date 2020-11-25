@@ -1,3 +1,3 @@
 <?php
 
-echo 'Bye bye Samsara-GOG:';
+echo 'Bye bye Samsara-GOG';
